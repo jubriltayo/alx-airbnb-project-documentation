@@ -11,7 +11,7 @@ Enable secure user registration, login, and session management.
   ```json
   {
     "email": "user@example.com",
-    "password": "securePassword123",
+    "password": "securePassword123$",
     "role": "guest" // Options: guest, host
   }
   ```  
