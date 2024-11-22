@@ -36,7 +36,7 @@ The DFD maps the data interactions between the following **core features**:
 alx-airbnb-project-documentation/
 │
 ├── data-flow-diagram/
-│   └── Data Flow Diagram (DFD).png
+│   └── data-flow.png
 │   └── README.md
 │
 ├── README.md
